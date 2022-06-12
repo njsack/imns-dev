@@ -3,7 +3,7 @@ title: "Welcome to New Blog"
 description: "Welcome to IMNS, the development blog of Nicholas Sack"
 author: Nick
 date: 2022-06-11T21:07:40-05:00
-draft: true
+draft: false
 ---
 Hi! My name is Nick and this is my development blog. I'm going to make this post short and sweet as I mostly made it to get things kickstarted with Hugo. For those who want to learn more about me and what I do, check out my About page. You can also check out a list of current and completed projects I'm working on here.
 
